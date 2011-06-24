@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+}
+
+h1{
+  font-family: "Molengo";
+  color: white;
+}
+
+p {
+  border-top: solid 1px #222;
+  font-family: "Helvetica Neue";
+  color: white;
+  padding-top: 20px;
+}
+
+span.domain {
+  color: #444;
+}
+
+#main{
+  padding: 30px 60px;
+}
+
